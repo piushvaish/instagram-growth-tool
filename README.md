@@ -47,7 +47,7 @@ The project has several important features:
 6. Individual results of the testing dataset, for further analysis of incorrect predictions.
 7. A feature to receive new user inputs that makes predictions based on the new data.
 8. Providing potential reviewers with access to an interactive user interface through a cloud-based platform.
-![PipelineDiagram](https://github.com/piushvaish/instagram-growth-strategy/blob/main/images/PipelineDiagram.png)
+![PipelineDiagram](images/PipelineDiagram.png)
 
 #### Dataset preparation and preprocessing
 Data is the foundation for any machine learning project. This stage involves data collection, preprocessing, and transformation.
